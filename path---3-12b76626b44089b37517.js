@@ -1,0 +1,2 @@
+webpackJsonp([0xa66b96fba9492000],{"./node_modules/json-loader/index.js!./.cache/json/3.json":function(e,a){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Code/Genijalac/src/pages/treci/index.md absPath of file >>> MarkdownRemark",frontmatter:{razred:3,cjelina:null,brojCjeline:null}}}]}},pathContext:{razred:3}}}});
+//# sourceMappingURL=path---3-12b76626b44089b37517.js.map

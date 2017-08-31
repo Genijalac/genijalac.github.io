@@ -1,0 +1,2 @@
+webpackJsonp([0xb8e34b2684517800],{"./node_modules/json-loader/index.js!./.cache/json/1-pravac.json":function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Code/Genijalac/src/pages/prvi/pravac/pravac1.md absPath of file >>> MarkdownRemark",frontmatter:{razred:1,cjelina:"Pravac",lekcija:"Naziv lekcije",brojCjeline:2}}}]}},pathContext:{cjelina:"Pravac"}}}});
+//# sourceMappingURL=path---1-pravac-f53ad134461055ce2231.js.map

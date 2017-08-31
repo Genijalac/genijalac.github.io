@@ -1,0 +1,2 @@
+webpackJsonp([0xc8c624ddb732f000],{"./node_modules/json-loader/index.js!./.cache/json/prvi.json":function(o,n){o.exports={pathContext:{}}}});
+//# sourceMappingURL=path---prvi-a0e39f21c11f6a62c5ab.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x163f5127a01d0600],{"./node_modules/json-loader/index.js!./.cache/json/4.json":function(e,a){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Code/Genijalac/src/pages/cetvrti/index.md absPath of file >>> MarkdownRemark",frontmatter:{razred:4,cjelina:null,brojCjeline:null}}}]}},pathContext:{razred:4}}}});
+//# sourceMappingURL=path---4-2c7f92988da4b22e2503.js.map

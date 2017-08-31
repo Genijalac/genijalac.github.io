@@ -1,0 +1,2 @@
+webpackJsonp([0xda0995f78de9580],{"./node_modules/json-loader/index.js!./.cache/json/drugi.json":function(o,e){o.exports={pathContext:{}}}});
+//# sourceMappingURL=path---drugi-a0e39f21c11f6a62c5ab.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x3e576ae126c18000],{"./node_modules/json-loader/index.js!./.cache/json/1-kruznica.json":function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Code/Genijalac/src/pages/prvi/pravac/pravac2.md absPath of file >>> MarkdownRemark",frontmatter:{razred:1,title:"1. Pravac",cjelina:"Kružnica",lekcija:"Naziv lekcije",brojCjeline:1}}}]}},pathContext:{cjelina:"Kružnica"}}}});
+//# sourceMappingURL=path---1-kruznica-beaf271dd15fbef56267.js.map

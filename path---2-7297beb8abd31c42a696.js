@@ -1,0 +1,2 @@
+webpackJsonp([0x8f0ce58d38921800],{"./node_modules/json-loader/index.js!./.cache/json/2.json":function(e,a){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Code/Genijalac/src/pages/drugi/index.md absPath of file >>> MarkdownRemark",frontmatter:{razred:2,cjelina:null,brojCjeline:null}}}]}},pathContext:{razred:2}}}});
+//# sourceMappingURL=path---2-7297beb8abd31c42a696.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x216ca5efad0e2000],{"./node_modules/json-loader/index.js!./.cache/json/prvi-pravac-2.json":function(a,e){a.exports={data:{markdownRemark:{html:"<p>Ovaj tekst bi trebao ići nakon videa o pravcu!</p>",frontmatter:{date:"July 12, 2017",path:"/prvi/pravac2/",title:"1. Pravac"}}},pathContext:{}}}});
+//# sourceMappingURL=path---prvi-pravac-2-7c56ede525d3977c5c18.js.map
