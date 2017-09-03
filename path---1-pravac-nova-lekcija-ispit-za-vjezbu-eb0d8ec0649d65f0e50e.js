@@ -1,0 +1,2 @@
+webpackJsonp([0x256977954da84600],{"./node_modules/json-loader/index.js!./.cache/json/1-pravac-nova-lekcija-ispit-za-vjezbu.json":function(a,e){a.exports={data:{markdownRemark:{html:"<p>Ovaj tekst bi trebao ići nakon videa o pravcu!</p>",frontmatter:{razred:1,cjelina:"Pravac",lekcija:"Nova lekcija",title:"Ispit za vježbu",video:null,type:"video"}}},pathContext:{razred:1,cjelina:"Pravac",lekcija:"Nova lekcija",title:"Ispit za vježbu"}}}});
+//# sourceMappingURL=path---1-pravac-nova-lekcija-ispit-za-vjezbu-eb0d8ec0649d65f0e50e.js.map

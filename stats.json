@@ -5,16 +5,20 @@
       "path---4-2c7f92988da4b22e2503.js.map"
     ],
     "component---src-templates-jedinica-jsx": [
-      "component---src-templates-jedinica-jsx-1e85e93174391d9cfca9.js",
-      "component---src-templates-jedinica-jsx-1e85e93174391d9cfca9.js.map"
+      "component---src-templates-jedinica-jsx-b3c5bd63b2d21ec2eb6c.js",
+      "component---src-templates-jedinica-jsx-b3c5bd63b2d21ec2eb6c.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-bcacaea54789f4d30c24.js",
       "component---src-pages-index-js-bcacaea54789f4d30c24.js.map"
     ],
+    "path---1-pravac-nova-lekcija-ispit-za-vjezbu": [
+      "path---1-pravac-nova-lekcija-ispit-za-vjezbu-eb0d8ec0649d65f0e50e.js",
+      "path---1-pravac-nova-lekcija-ispit-za-vjezbu-eb0d8ec0649d65f0e50e.js.map"
+    ],
     "path---1": [
-      "path---1-f691c332ea7c32ab5715.js",
-      "path---1-f691c332ea7c32ab5715.js.map"
+      "path---1-73f47cb107359328bb8b.js",
+      "path---1-73f47cb107359328bb8b.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -29,12 +33,12 @@
       "path---1-kruznica-beaf271dd15fbef56267.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-bb0d6ca3086e582a4b17.js",
-      "component---src-layouts-index-jsx-bb0d6ca3086e582a4b17.js.map"
+      "component---src-layouts-index-jsx-af60c9cdcd943fb5c23d.js",
+      "component---src-layouts-index-jsx-af60c9cdcd943fb5c23d.js.map"
     ],
     "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
-      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-1d623ec0ed760b08d6ad.js",
-      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-1d623ec0ed760b08d6ad.js.map"
+      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-a4d9abb3190f5b6fdb73.js",
+      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-a4d9abb3190f5b6fdb73.js.map"
     ],
     "path---1-jednadzbe": [
       "path---1-jednadzbe-25279685548ff37c4872.js",
@@ -85,12 +89,12 @@
       "path---3-12b76626b44089b37517.js.map"
     ],
     "path---1-pravac": [
-      "path---1-pravac-b99c400b857c4ae3315d.js",
-      "path---1-pravac-b99c400b857c4ae3315d.js.map"
+      "path---1-pravac-e6ffb9fbfd17729ab8d5.js",
+      "path---1-pravac-e6ffb9fbfd17729ab8d5.js.map"
     ],
     "app": [
-      "app-f0e44eea310546b6b3a3.js",
-      "app-f0e44eea310546b6b3a3.js.map"
+      "app-c2d3edf4bc8f3a973871.js",
+      "app-c2d3edf4bc8f3a973871.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
