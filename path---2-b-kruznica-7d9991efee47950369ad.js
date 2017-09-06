@@ -1,0 +1,2 @@
+webpackJsonp([0x421c3aac4dffb400],{"./node_modules/json-loader/index.js!./.cache/json/2-b-kruznica.json":function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Code/Genijalac/lekcije/tzp/2. razred/pravac/pravac2.md absPath of file >>> MarkdownRemark",frontmatter:{razred:"2b",title:"1. Pravac",cjelina:"Kružnica",lekcija:"Naziv lekcije",brojCjeline:1}}}]}},pathContext:{cjelina:"Kružnica",razred:"2b"}}}});
+//# sourceMappingURL=path---2-b-kruznica-7d9991efee47950369ad.js.map

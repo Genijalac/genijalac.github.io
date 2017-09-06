@@ -1,0 +1,2 @@
+webpackJsonp([0x7a3f9ca8887efc00],{"./node_modules/json-loader/index.js!./.cache/json/2-b-pravac-naziv-lekcije-zadaci-za-vjezbu.json":function(a,e){a.exports={data:{markdownRemark:{html:"<p>Ovaj tekst bi trebao ići nakon videa o pravcu!</p>",frontmatter:{razred:"2b",cjelina:"Pravac",lekcija:"Naziv lekcije",title:"Zadaci za vježbu",video:null,type:"video"}}},pathContext:{razred:"2b",cjelina:"Pravac",lekcija:"Naziv lekcije",title:"Zadaci za vježbu"}}}});
+//# sourceMappingURL=path---2-b-pravac-naziv-lekcije-zadaci-za-vjezbu-d166301c459402ca8b7f.js.map

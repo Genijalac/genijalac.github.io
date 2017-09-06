@@ -1,0 +1,2 @@
+webpackJsonp([0x9dc766b009d17800],{"./node_modules/json-loader/index.js!./.cache/json/3-a-kruznica.json":function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{id:"D:/Code/Genijalac/lekcije/ekonomisti/3. razred/pravac/pravac2.md absPath of file >>> MarkdownRemark",frontmatter:{razred:"3a",title:"1. Pravac",cjelina:"Kružnica",lekcija:"Naziv lekcije",brojCjeline:1}}}]}},pathContext:{cjelina:"Kružnica",razred:"3a"}}}});
+//# sourceMappingURL=path---3-a-kruznica-3aa6fadbf5ef15597704.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x975a00da369ad800],{"./node_modules/json-loader/index.js!./.cache/json/4-a-kruznica-naziv-lekcije-1-pravac.json":function(a,e){a.exports={data:{markdownRemark:{html:"<p>Ovaj tekst bi trebao ići nakon videa o pravcu!</p>",frontmatter:{razred:"4a",cjelina:"Kružnica",lekcija:"Naziv lekcije",title:"1. Pravac",video:null,type:"video"}}},pathContext:{razred:"4a",cjelina:"Kružnica",lekcija:"Naziv lekcije",title:"1. Pravac"}}}});
+//# sourceMappingURL=path---4-a-kruznica-naziv-lekcije-1-pravac-5d22f6b3a586c8aa3414.js.map

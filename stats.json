@@ -1,104 +1,292 @@
 {
   "assetsByChunkName": {
-    "path---4": [
-      "path---4-2c7f92988da4b22e2503.js",
-      "path---4-2c7f92988da4b22e2503.js.map"
+    "path---2-a-pravac-nova-lekcija-ispit-za-vjezbu": [
+      "path---2-a-pravac-nova-lekcija-ispit-za-vjezbu-12fd2b45c1553ed17f7b.js",
+      "path---2-a-pravac-nova-lekcija-ispit-za-vjezbu-12fd2b45c1553ed17f7b.js.map"
+    ],
+    "path---2-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2": [
+      "path---2-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-bb2124b22dff10fa147c.js",
+      "path---2-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-bb2124b22dff10fa147c.js.map"
+    ],
+    "path---2-b-pravac-nova-lekcija-ispit-za-vjezbu": [
+      "path---2-b-pravac-nova-lekcija-ispit-za-vjezbu-e8de57083593a74c5716.js",
+      "path---2-b-pravac-nova-lekcija-ispit-za-vjezbu-e8de57083593a74c5716.js.map"
+    ],
+    "path---3-a-jednadzbe": [
+      "path---3-a-jednadzbe-f10219075a687ab83ca1.js",
+      "path---3-a-jednadzbe-f10219075a687ab83ca1.js.map"
+    ],
+    "path---1-b-pravac-nova-lekcija-ispit-za-vjezbu": [
+      "path---1-b-pravac-nova-lekcija-ispit-za-vjezbu-648d8ddab388fbb8f580.js",
+      "path---1-b-pravac-nova-lekcija-ispit-za-vjezbu-648d8ddab388fbb8f580.js.map"
+    ],
+    "path---1-a-pravac-naziv-lekcije-zadaci-za-vjezbu": [
+      "path---1-a-pravac-naziv-lekcije-zadaci-za-vjezbu-bc0919b677d27565dffa.js",
+      "path---1-a-pravac-naziv-lekcije-zadaci-za-vjezbu-bc0919b677d27565dffa.js.map"
+    ],
+    "path---4-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2": [
+      "path---4-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-9d5aa7803bf44847ae8c.js",
+      "path---4-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-9d5aa7803bf44847ae8c.js.map"
+    ],
+    "path---2-b-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
+      "path---2-b-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-2a110d2c291a42ef4f38.js",
+      "path---2-b-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-2a110d2c291a42ef4f38.js.map"
+    ],
+    "path---3-a-pravac-naziv-lekcije-zadaci-za-vjezbu": [
+      "path---3-a-pravac-naziv-lekcije-zadaci-za-vjezbu-078705331cd74f66b72a.js",
+      "path---3-a-pravac-naziv-lekcije-zadaci-za-vjezbu-078705331cd74f66b72a.js.map"
+    ],
+    "path---3-a": [
+      "path---3-a-742ba9fc2c061f929b75.js",
+      "path---3-a-742ba9fc2c061f929b75.js.map"
+    ],
+    "path---1-b-kruznica": [
+      "path---1-b-kruznica-60973144ec8c63ac4786.js",
+      "path---1-b-kruznica-60973144ec8c63ac4786.js.map"
     ],
     "component---src-templates-jedinica-jsx": [
       "component---src-templates-jedinica-jsx-0982f215653f14eaf729.js",
       "component---src-templates-jedinica-jsx-0982f215653f14eaf729.js.map"
     ],
-    "component---src-pages-index-js": [
-      "component---src-pages-index-js-bcacaea54789f4d30c24.js",
-      "component---src-pages-index-js-bcacaea54789f4d30c24.js.map"
+    "path---2-b-kruznica-naziv-lekcije-1-pravac": [
+      "path---2-b-kruznica-naziv-lekcije-1-pravac-521489a1bac6edcc5190.js",
+      "path---2-b-kruznica-naziv-lekcije-1-pravac-521489a1bac6edcc5190.js.map"
     ],
-    "path---1-pravac-nova-lekcija-ispit-za-vjezbu": [
-      "path---1-pravac-nova-lekcija-ispit-za-vjezbu-eb0d8ec0649d65f0e50e.js",
-      "path---1-pravac-nova-lekcija-ispit-za-vjezbu-eb0d8ec0649d65f0e50e.js.map"
+    "path---2-b-pravac": [
+      "path---2-b-pravac-ba3f08ec4263ce206513.js",
+      "path---2-b-pravac-ba3f08ec4263ce206513.js.map"
     ],
-    "path---1": [
-      "path---1-447f3d63727886e3bda0.js",
-      "path---1-447f3d63727886e3bda0.js.map"
+    "path---3-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe": [
+      "path---3-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-612bdd4aed750ac2c07b.js",
+      "path---3-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-612bdd4aed750ac2c07b.js.map"
+    ],
+    "path---2-a-kruznica-naziv-lekcije-1-pravac": [
+      "path---2-a-kruznica-naziv-lekcije-1-pravac-5dc53b03ff28fada9348.js",
+      "path---2-a-kruznica-naziv-lekcije-1-pravac-5dc53b03ff28fada9348.js.map"
+    ],
+    "path---1-b": [
+      "path---1-b-3d890404362a5de16bf8.js",
+      "path---1-b-3d890404362a5de16bf8.js.map"
+    ],
+    "path---2-a-pravac": [
+      "path---2-a-pravac-fa07405adbc7c71c91d5.js",
+      "path---2-a-pravac-fa07405adbc7c71c91d5.js.map"
+    ],
+    "path---1-a-kruznica": [
+      "path---1-a-kruznica-b47cd7e9e507ce4e2fe9.js",
+      "path---1-a-kruznica-b47cd7e9e507ce4e2fe9.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---1-kruznica-naziv-lekcije-1-pravac": [
-      "path---1-kruznica-naziv-lekcije-1-pravac-8422291e111a710e9484.js",
-      "path---1-kruznica-naziv-lekcije-1-pravac-8422291e111a710e9484.js.map"
+    "path---2-a-pravac-naziv-lekcije-zadaci-za-vjezbu": [
+      "path---2-a-pravac-naziv-lekcije-zadaci-za-vjezbu-2df17bdaf1712b0be86d.js",
+      "path---2-a-pravac-naziv-lekcije-zadaci-za-vjezbu-2df17bdaf1712b0be86d.js.map"
     ],
-    "path---1-kruznica": [
-      "path---1-kruznica-beaf271dd15fbef56267.js",
-      "path---1-kruznica-beaf271dd15fbef56267.js.map"
+    "path---4-a-pravac": [
+      "path---4-a-pravac-0e9ae6422d5925461307.js",
+      "path---4-a-pravac-0e9ae6422d5925461307.js.map"
+    ],
+    "path---3-a-pravac": [
+      "path---3-a-pravac-b1420281d8898317bf4f.js",
+      "path---3-a-pravac-b1420281d8898317bf4f.js.map"
+    ],
+    "path---2-b-kruznica": [
+      "path---2-b-kruznica-7d9991efee47950369ad.js",
+      "path---2-b-kruznica-7d9991efee47950369ad.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-af9af09ec2539e9e3b07.js",
-      "component---src-layouts-index-jsx-af9af09ec2539e9e3b07.js.map"
+      "component---src-layouts-index-jsx-3d1b477fd90f3ea59e98.js",
+      "component---src-layouts-index-jsx-3d1b477fd90f3ea59e98.js.map"
     ],
-    "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
-      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-520eba876d894de99f36.js",
-      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-520eba876d894de99f36.js.map"
+    "path---1-a-pravac": [
+      "path---1-a-pravac-fe21be7dceace0255b4c.js",
+      "path---1-a-pravac-fe21be7dceace0255b4c.js.map"
     ],
-    "path---1-jednadzbe": [
-      "path---1-jednadzbe-25279685548ff37c4872.js",
-      "path---1-jednadzbe-25279685548ff37c4872.js.map"
+    "path---1-a": [
+      "path---1-a-6f6fab2963c5a730eaf9.js",
+      "path---1-a-6f6fab2963c5a730eaf9.js.map"
     ],
-    "path---1-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2": [
-      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-e3253511bc1d586e36a6.js",
-      "path---1-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-e3253511bc1d586e36a6.js.map"
+    "path---1-b-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2": [
+      "path---1-b-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-e3f1fb1d2ff3e559cbd5.js",
+      "path---1-b-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-e3f1fb1d2ff3e559cbd5.js.map"
+    ],
+    "path---2-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe": [
+      "path---2-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-10b9b7754dc6e614da44.js",
+      "path---2-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-10b9b7754dc6e614da44.js.map"
+    ],
+    "path---1-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe": [
+      "path---1-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-8680a3f1c3f842bc7ab6.js",
+      "path---1-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-8680a3f1c3f842bc7ab6.js.map"
+    ],
+    "path---1-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2": [
+      "path---1-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-fcb2e42f420b4c422342.js",
+      "path---1-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-fcb2e42f420b4c422342.js.map"
+    ],
+    "path---1-a-pravac-nova-lekcija-ispit-za-vjezbu": [
+      "path---1-a-pravac-nova-lekcija-ispit-za-vjezbu-48a3ccd94b9ef89788df.js",
+      "path---1-a-pravac-nova-lekcija-ispit-za-vjezbu-48a3ccd94b9ef89788df.js.map"
+    ],
+    "path---1-b-pravac": [
+      "path---1-b-pravac-5a654b5ee5810bb47522.js",
+      "path---1-b-pravac-5a654b5ee5810bb47522.js.map"
+    ],
+    "path---2-b-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2": [
+      "path---2-b-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-6fa760e2fad5aa151c08.js",
+      "path---2-b-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-6fa760e2fad5aa151c08.js.map"
+    ],
+    "path---4-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
+      "path---4-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-b078758b6928b93659b9.js",
+      "path---4-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-b078758b6928b93659b9.js.map"
+    ],
+    "path---2-b-pravac-naziv-lekcije-zadaci-za-vjezbu": [
+      "path---2-b-pravac-naziv-lekcije-zadaci-za-vjezbu-d166301c459402ca8b7f.js",
+      "path---2-b-pravac-naziv-lekcije-zadaci-za-vjezbu-d166301c459402ca8b7f.js.map"
+    ],
+    "path---1-a-jednadzbe": [
+      "path---1-a-jednadzbe-dd4d3b641116512ba291.js",
+      "path---1-a-jednadzbe-dd4d3b641116512ba291.js.map"
+    ],
+    "path---3-a-pravac-nova-lekcija-ispit-za-vjezbu": [
+      "path---3-a-pravac-nova-lekcija-ispit-za-vjezbu-1a5d80c77fd2fe886c73.js",
+      "path---3-a-pravac-nova-lekcija-ispit-za-vjezbu-1a5d80c77fd2fe886c73.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---1-pravac-naziv-lekcije-zadaci-za-vjezbu": [
-      "path---1-pravac-naziv-lekcije-zadaci-za-vjezbu-3ff0e6b40974f95f4624.js",
-      "path---1-pravac-naziv-lekcije-zadaci-za-vjezbu-3ff0e6b40974f95f4624.js.map"
+    "path---1-b-jednadzbe": [
+      "path---1-b-jednadzbe-09a120f8abf1e71edf84.js",
+      "path---1-b-jednadzbe-09a120f8abf1e71edf84.js.map"
     ],
     "component---src-templates-cjelina-jsx": [
       "component---src-templates-cjelina-jsx-80584ad7cbb24db3aac4.js",
       "component---src-templates-cjelina-jsx-80584ad7cbb24db3aac4.js.map"
     ],
     "component---src-templates-razred-jsx": [
-      "component---src-templates-razred-jsx-67709fffb288504c34d4.js",
-      "component---src-templates-razred-jsx-67709fffb288504c34d4.js.map"
+      "component---src-templates-razred-jsx-6e5d949dc7e49c19b090.js",
+      "component---src-templates-razred-jsx-6e5d949dc7e49c19b090.js.map"
     ],
-    "path---2": [
-      "path---2-7297beb8abd31c42a696.js",
-      "path---2-7297beb8abd31c42a696.js.map"
-    ],
-    "path---1-jednadzbe-naziv-druge-lekcije-2-jednadzbe": [
-      "path---1-jednadzbe-naziv-druge-lekcije-2-jednadzbe-937fe5e2015ffae2aece.js",
-      "path---1-jednadzbe-naziv-druge-lekcije-2-jednadzbe-937fe5e2015ffae2aece.js.map"
+    "path---4-a": [
+      "path---4-a-f283cc2e44beae08b409.js",
+      "path---4-a-f283cc2e44beae08b409.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
+    "path---2-b": [
+      "path---2-b-ee88311f3ee848da83cf.js",
+      "path---2-b-ee88311f3ee848da83cf.js.map"
+    ],
+    "path---4-a-kruznica-naziv-lekcije-1-pravac": [
+      "path---4-a-kruznica-naziv-lekcije-1-pravac-5d22f6b3a586c8aa3414.js",
+      "path---4-a-kruznica-naziv-lekcije-1-pravac-5d22f6b3a586c8aa3414.js.map"
+    ],
+    "path---3-a-kruznica-naziv-lekcije-1-pravac": [
+      "path---3-a-kruznica-naziv-lekcije-1-pravac-95840cef7ac2c80a95df.js",
+      "path---3-a-kruznica-naziv-lekcije-1-pravac-95840cef7ac2c80a95df.js.map"
+    ],
+    "path---4-a-kruznica": [
+      "path---4-a-kruznica-8f8b70ea18c878a2212c.js",
+      "path---4-a-kruznica-8f8b70ea18c878a2212c.js.map"
+    ],
     "commons": [
       "commons-84f8cca5e25d9981ea5e.js",
       "commons-84f8cca5e25d9981ea5e.js.map"
+    ],
+    "path---3-a-kruznica": [
+      "path---3-a-kruznica-3aa6fadbf5ef15597704.js",
+      "path---3-a-kruznica-3aa6fadbf5ef15597704.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---3": [
-      "path---3-12b76626b44089b37517.js",
-      "path---3-12b76626b44089b37517.js.map"
+    "path---2-b-jednadzbe-naziv-druge-lekcije-2-jednadzbe": [
+      "path---2-b-jednadzbe-naziv-druge-lekcije-2-jednadzbe-601f7f2e8b408f3d1d63.js",
+      "path---2-b-jednadzbe-naziv-druge-lekcije-2-jednadzbe-601f7f2e8b408f3d1d63.js.map"
     ],
-    "path---1-pravac": [
-      "path---1-pravac-e6ffb9fbfd17729ab8d5.js",
-      "path---1-pravac-e6ffb9fbfd17729ab8d5.js.map"
+    "path---1-b-pravac-naziv-lekcije-zadaci-za-vjezbu": [
+      "path---1-b-pravac-naziv-lekcije-zadaci-za-vjezbu-ab5c28b5390d9430477d.js",
+      "path---1-b-pravac-naziv-lekcije-zadaci-za-vjezbu-ab5c28b5390d9430477d.js.map"
+    ],
+    "path---4-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe": [
+      "path---4-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-ecf379b366542a57e36a.js",
+      "path---4-a-jednadzbe-naziv-druge-lekcije-2-jednadzbe-ecf379b366542a57e36a.js.map"
+    ],
+    "path---2-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
+      "path---2-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-c26470ca9911d1aba9ce.js",
+      "path---2-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-c26470ca9911d1aba9ce.js.map"
+    ],
+    "path---1-a-kruznica-naziv-lekcije-1-pravac": [
+      "path---1-a-kruznica-naziv-lekcije-1-pravac-b144087bc5bd36323323.js",
+      "path---1-a-kruznica-naziv-lekcije-1-pravac-b144087bc5bd36323323.js.map"
+    ],
+    "path---2-a": [
+      "path---2-a-9dbef9e6833dcdcdede9.js",
+      "path---2-a-9dbef9e6833dcdcdede9.js.map"
+    ],
+    "path---1-b-jednadzbe-naziv-druge-lekcije-2-jednadzbe": [
+      "path---1-b-jednadzbe-naziv-druge-lekcije-2-jednadzbe-a0e11b94c80650cfb219.js",
+      "path---1-b-jednadzbe-naziv-druge-lekcije-2-jednadzbe-a0e11b94c80650cfb219.js.map"
+    ],
+    "path---1-b-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
+      "path---1-b-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-9fe7f46fb1b3fe13531c.js",
+      "path---1-b-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-9fe7f46fb1b3fe13531c.js.map"
+    ],
+    "path---2-a-kruznica": [
+      "path---2-a-kruznica-4a930cc5d72dbe486d63.js",
+      "path---2-a-kruznica-4a930cc5d72dbe486d63.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-91c1d09ce480fe5c37f7.js",
+      "component---src-pages-index-jsx-91c1d09ce480fe5c37f7.js.map"
+    ],
+    "path---2-a-jednadzbe": [
+      "path---2-a-jednadzbe-28692eaa6a347b3cb369.js",
+      "path---2-a-jednadzbe-28692eaa6a347b3cb369.js.map"
+    ],
+    "path---3-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2": [
+      "path---3-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-d8ea3d1e2c864040fec7.js",
+      "path---3-a-jednadzbe-jednadzbe-lekcija-1-2-jednadzbe-2-d8ea3d1e2c864040fec7.js.map"
     ],
     "app": [
-      "app-a679b09765819e18147c.js",
-      "app-a679b09765819e18147c.js.map"
+      "app-9360aa7ae4f8aca9521a.js",
+      "app-9360aa7ae4f8aca9521a.js.map"
+    ],
+    "path---4-a-jednadzbe": [
+      "path---4-a-jednadzbe-4fc5b02ec837470128b9.js",
+      "path---4-a-jednadzbe-4fc5b02ec837470128b9.js.map"
+    ],
+    "path---3-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
+      "path---3-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-a9c8baa870d165faa475.js",
+      "path---3-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-a9c8baa870d165faa475.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---1-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2": [
+      "path---1-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-a48744f5b6b67e83275c.js",
+      "path---1-a-jednadzbe-jednadzbe-lekcija-1-2-jedn-22-adzbe-2-a48744f5b6b67e83275c.js.map"
+    ],
+    "path---4-a-pravac-naziv-lekcije-zadaci-za-vjezbu": [
+      "path---4-a-pravac-naziv-lekcije-zadaci-za-vjezbu-c44bf3568bdefbe012d4.js",
+      "path---4-a-pravac-naziv-lekcije-zadaci-za-vjezbu-c44bf3568bdefbe012d4.js.map"
+    ],
+    "path---1-b-kruznica-naziv-lekcije-1-pravac": [
+      "path---1-b-kruznica-naziv-lekcije-1-pravac-70a4eed430ad2a0766e6.js",
+      "path---1-b-kruznica-naziv-lekcije-1-pravac-70a4eed430ad2a0766e6.js.map"
+    ],
+    "path---4-a-pravac-nova-lekcija-ispit-za-vjezbu": [
+      "path---4-a-pravac-nova-lekcija-ispit-za-vjezbu-8686431784b9c0a5cdeb.js",
+      "path---4-a-pravac-nova-lekcija-ispit-za-vjezbu-8686431784b9c0a5cdeb.js.map"
+    ],
+    "path---2-b-jednadzbe": [
+      "path---2-b-jednadzbe-80ee4834039c0200ba1e.js",
+      "path---2-b-jednadzbe-80ee4834039c0200ba1e.js.map"
     ]
   }
 }
